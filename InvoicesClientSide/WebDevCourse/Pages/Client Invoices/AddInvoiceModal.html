@@ -1,0 +1,30 @@
+﻿<div class="container-fluid">
+    <div ng-init="init()">
+        <br>
+        <form id="userregistrationvalidationgroup" name="userForm" novalidate>
+            <div class="row">
+                <div class="col-md-4">Add client :</div>
+                <div class="col-md-4">
+                    <br><br>
+                </div>
+                <div class="col-md-11">
+                    <div dx-text-box="{placeholder: 'client name', width: '350'}" ng-model="FormData.clientName" data-dx-validator="{ validationRules: [{ type: 'required' }] }"></div>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <br><hr>
+                <div class="col-md-12">
+                    <button type="button" class="btn btn-success btn-sm" ng-click="clickAddRecord()">
+                        Save <span class="glyphicon glyphicon-floppy-save" aria-hidden="true"></span>
+                    </button>
+
+                    <button type="button" class="btn btn-default btn-sm" ng-click="CloseModal()">
+                        Cancel <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    </button>
+                </div>
+                <div class="col-md-12"><br></div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+﻿<div class="container-fluid">
+    <div class="modal-header" data-dx-validation-group="{}" id="NotesValidationGroup">
+        <div class="modal-title" style="color:red">Error<span style="float:right;font-size:11px;">With Code: {{statuscode}}</span></div>
+    </div>
+    <div class="modal-body">
+        <div id="errorMessage" class="errorMessage">{{errormsg}}</div>
+        <div ng-show="ShowStackTrace" class="row" style="margin-top:2px;">
+            <div  class="errorStack">{{stack}}</div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <div style="float:left;text-decoration:underline;color:blue;cursor:pointer;" ng-click="ShowStack()">Show Error Trace</div>
+        <!--<button class="btn btn-primary" type="button" title="Confirm -- alt+s" accesskey="s" ng-click="ok()">OK</button>-->
+        <button class="btn btn-red" type="button" title="Cancel -- alt+c" ng-click="btnOk()">Ok</button>
+    </div>
+</div>

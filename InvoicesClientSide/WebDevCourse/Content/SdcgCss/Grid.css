@@ -1,0 +1,17 @@
+﻿.dx-datagrid-toolbar-button .dx-icon-edit-button-save
+{
+    visibility: hidden !important;
+}
+
+a.InqGrd:link {
+    color: #235580;
+    text-decoration: none;
+}
+
+a.InqGrd:hover {
+    color:#235580;
+    text-decoration: underline;
+}
+/*tr.InqGrd {
+    cursor: pointer;
+}*/

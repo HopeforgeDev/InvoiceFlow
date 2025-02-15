@@ -1,0 +1,43 @@
+﻿<div class="container-fluid" ng-init="init()">
+    <div class="modal-header">
+        <div class="modal-title">Attach Files</div>
+    </div>
+    <div class="modal-body">
+        <div style="margin-left:4px;padding:5px;" ng-model="Description" dx-text-box="{placeholder:'File Description', onValueChanged: changedDescription}"></div>
+        <!--<div id="tags"  style="margin-left:4px;margin-top:5px;" dx-tag-box="{dataSource:Tags, placeholder:'Select Tags', onSelectionChanged:addNewTag, valueExpr:'tagid', displayExpr:'tgdesc', hideSelectedItems:true, searchEnabled:true}"></div>-->
+      
+        <div class="uploader" id="attachFile" style="padding:5px;" dx-file-uploader="{
+                multiple: false,
+                uploadMode: 'instantly',
+                selectButtonText:'Select Files',
+                onUploadStarted: UploadStarted,
+                uploadMethod: 'Post',
+                uploadUrl:'{{uploadurl}}',
+                uploadedMessage:'Upload Done Successfully',
+                uploadCustomData:  uploadcustomdata,
+                onUploaded:uploaded,
+                invalidMaxFileSizeMessage:'File is too large. Max is 4mb',
+                maxFileSize: 4000000
+             }"></div>
+         <div class="row"><div class="col-md-12" style="padding-left:20px;" id="uploaderrordiv"></div></div>
+
+        <div class="row">
+            <!--<div style="margin-left:15px;" ng-repeat="item in Attachements" >
+                    <a target="_blank" href="{{item.objfilepath}}" ng-href="{{item.objfilepath}}">{{item.objfilename}}</a><span><button style="margin-left:4px;"
+                ng-click="DeleteFile(item)"
+                type="button"
+                class="btn btn-xs btn-link">
+            <span class="glyphicon glyphicon-remove"></span><span style="margin-left:5px;">{{item.objdescription}}</span>
+        </button></span>
+                </div>-->
+            <div class="col-md-12">
+                <div id="grdAttach" dx-data-grid="grdConfig" style="min-height:150px;"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="modal-footer">
+        <button class="btn btn-warning" type="button" title="Close -- alt+c" ng-click="cancel()">Close</button>
+    </div>
+</div>

@@ -1,0 +1,45 @@
+﻿.sdcgstatusbar {
+    font-family: sans-serif;
+    font-weight:100;
+    font-size:12px;
+    padding-top: 10px;
+    vertical-align:middle;
+}
+.container 
+{
+  position: relative;
+  padding-left: 0px;
+}
+.sdcgstatusbar-dx-field-label {
+    padding-left:0px;
+}
+.sdcgstatusbar-label {
+    font-size:12px;
+    font-weight:100;
+}
+
+.sdcgstatusbar-input {
+    border: none;
+    font-size:12px;
+    font-weight:700;
+}
+.sdcgstatusbar-input:disabled {
+    background-color:transparent;
+}
+.sdcgstatusbar-dx-date-box {
+    padding-left:0px;
+    border:none;
+    font-size:12px;
+}
+.sdcgstatusbar-container{
+    border-radius: 3px; 
+    background-color: rgba(146, 164, 180, 1);
+    color:white;
+    clear:both;
+    bottom: 1px;
+    position: fixed;
+    margin-right:50px;
+}
+.rich-text {
+    padding-left:0px!important;
+}

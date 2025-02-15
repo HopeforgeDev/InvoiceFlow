@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|c:\\users\\malak lghoul\\desktop\\acad25_finalexercice\\inventoryfinalproject\\inventoryfinalproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\inventoryfinalproject\\controllers\\invoiceheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\controllers\\invoiceheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\inventoryfinalproject\\controllers\\invoicedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\controllers\\invoicedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\inventoryfinalproject\\repository\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\repository\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\inventoryfinalproject\\repository\\invoiceheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\repository\\invoiceheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\inventoryfinalproject\\models\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085109FC-1743-4BEE-9862-4076DBC5AFEB}|InventoryFinalProject\\InventoryFinalProject.csproj|solutionrelative:inventoryfinalproject\\models\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Controllers\\InvoiceDetailController.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\Controllers\\InvoiceDetailController.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Controllers\\InvoiceDetailController.cs",
+              "RelativeToolTip": "InventoryFinalProject\\Controllers\\InvoiceDetailController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:17:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "InventoryFinalProject\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:12:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Repository\\InvoiceDetailRepository.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\Repository\\InvoiceDetailRepository.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Repository\\InvoiceDetailRepository.cs",
+              "RelativeToolTip": "InventoryFinalProject\\Repository\\InvoiceDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:38:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceHeaderController.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Controllers\\InvoiceHeaderController.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\Controllers\\InvoiceHeaderController.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Controllers\\InvoiceHeaderController.cs",
+              "RelativeToolTip": "InventoryFinalProject\\Controllers\\InvoiceHeaderController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:46:53.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Repository\\InvoiceHeaderRepository.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\Repository\\InvoiceHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Repository\\InvoiceHeaderRepository.cs",
+              "RelativeToolTip": "InventoryFinalProject\\Repository\\InvoiceHeaderRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:42:40.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Models\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "InventoryFinalProject\\Models\\InvoiceHeader.cs",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InventoryFinalProject\\InventoryFinalProject\\Models\\InvoiceHeader.cs",
+              "RelativeToolTip": "InventoryFinalProject\\Models\\InvoiceHeader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:29:10.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿.modal-title {
+    font-size:x-large;
+    font-weight:bold;
+    text-align:center;
+}
+.input-text {
+    height:26px;
+    margin-bottom:20px;
+}
+.dx-icon {
+    font-size:12px !important;
+    line-height:15px !important;
+}
+
+.w-70 .modal-dialog{
+    width: 70%;
+}

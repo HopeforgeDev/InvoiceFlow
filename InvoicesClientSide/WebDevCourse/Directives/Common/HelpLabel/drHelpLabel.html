@@ -1,0 +1,25 @@
+﻿<style>
+    .labelhint .dx-button-content {
+        padding: 2px;
+    }
+</style>
+<!--<i class="fa fa-plus" ng-click="onAddClick()" style="font-size:18px;color:#4681b3;"></i>-->
+<!--<button class="btn btn-default" ng-click="onAddClick()">+ Add</button>-->
+<div class="btn aToolbar toolbarbtn labelhint"
+     dx-button="{
+        onClick:onHelpLabelClick
+     }"
+     style="padding:0px !important;
+     border:0 !important;"
+     id="{{helplabeloptions.labelkey}}" tabindex="-1">
+
+    <span class="glyphicon glyphicon-question-sign">
+    </span>
+</div>
+<!--<div id="helppopover" dx-popover="{
+    target: '#btnhelplabel',
+    position:'right'}">
+    <div style="display:inline-block;min-width:150px;" ng-bind-html="FormData[0].lhlabelhint"></div>
+
+</div>-->
+<div id="labelhintContainer"></div>

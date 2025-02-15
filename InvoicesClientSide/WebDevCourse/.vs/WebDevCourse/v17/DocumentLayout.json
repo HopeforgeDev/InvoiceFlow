@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\pages\\client invoices\\maininvoice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:pages\\client invoices\\maininvoice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\appconfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:appconfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|c:\\users\\malak lghoul\\desktop\\acad25_finalexercice\\invoicesclientside\\webdevcourse\\scripts\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:scripts\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\pages\\client invoices\\addinvoicemodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:pages\\client invoices\\addinvoicemodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\pages\\client invoices\\adddetailmodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:pages\\client invoices\\adddetailmodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\pages\\client invoices\\idetailclient.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7693D375-37A4-4A90-B9AC-33E8502789DE}|WebDevCourse.csproj|solutionrelative:pages\\client invoices\\idetailclient.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "angular.js",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Scripts\\angular.js",
+              "RelativeDocumentMoniker": "Scripts\\angular.js",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Scripts\\angular.js",
+              "RelativeToolTip": "Scripts\\angular.js",
+              "ViewState": "AQIAAGkEAAAAAAAAAAAqwHAEAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-05T17:48:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConfig.js",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\AppConfig.js",
+              "RelativeDocumentMoniker": "AppConfig.js",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\AppConfig.js",
+              "RelativeToolTip": "AppConfig.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-05T17:16:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainInvoice.js",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\MainInvoice.js",
+              "RelativeDocumentMoniker": "Pages\\Client Invoices\\MainInvoice.js",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\MainInvoice.js",
+              "RelativeToolTip": "Pages\\Client Invoices\\MainInvoice.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-04T20:19:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddInvoiceModal.html",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\AddInvoiceModal.html",
+              "RelativeDocumentMoniker": "Pages\\Client Invoices\\AddInvoiceModal.html",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\AddInvoiceModal.html",
+              "RelativeToolTip": "Pages\\Client Invoices\\AddInvoiceModal.html",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-05T09:59:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDetailClient.html",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\IDetailClient.html",
+              "RelativeDocumentMoniker": "Pages\\Client Invoices\\IDetailClient.html",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\IDetailClient.html",
+              "RelativeToolTip": "Pages\\Client Invoices\\IDetailClient.html",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-04T20:19:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddDetailModal.html",
+              "DocumentMoniker": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\AddDetailModal.html",
+              "RelativeDocumentMoniker": "Pages\\Client Invoices\\AddDetailModal.html",
+              "ToolTip": "C:\\Users\\MALAK LGHOUL\\Desktop\\ACAD25_FinalExercice\\InvoicesClientSide\\WebDevCourse\\Pages\\Client Invoices\\AddDetailModal.html",
+              "RelativeToolTip": "Pages\\Client Invoices\\AddDetailModal.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-05T10:52:36.087Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

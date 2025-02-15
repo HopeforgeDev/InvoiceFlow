@@ -1,0 +1,73 @@
+﻿<div class="container-fluid">
+    <div class="modal-header" id="NotesValidationGroup">
+        <div class="modal-title">Notes</div>
+        
+    </div>
+
+    <div class="modal-body">
+            <div class="row">
+                <div class="col-md-2 col-sm-12" style="font-size:large;font-weight:bold;">Description</div>
+                <div class="col-md-10 col-sm-12">
+                    <!--<input type="text" class="col-md-10" style="margin-bottom:10px;height:80px;" ng-model="rowselected[columns[1].dataField]" />-->
+                    <textarea style="width:100%;margin-bottom:10px;height:80px;" ng-model="rowselected.edittext"></textarea>
+                </div>
+            </div>
+            <div class="row" ng-show="errornote != 0">
+                <div class="col-md-2 col-sm-12"></div>
+                <div style="color:red">Notes is required</div>
+            </div>
+
+            <!--<link href="../../../Content/textAngular.css" rel="stylesheet" />-->
+            <!--<text-angular name="descriptionhtml" id="txtnotes" ng-model="notehtml" stop-event="focusout" ta-disabled="textangulardisabled"
+                      data-ng-required="true"
+                      ta-text-editor-class="form-control myform2-height" ta-html-editor-class="form-control myform2-height">
+        </text-angular>-->
+
+            <div class="row" style="padding:10px 0 10px 0;">
+                <div class="col-md-12">
+                    <button class="btn btn-warning pull-right" type="button" title="Cancel -- alt+c" ng-click="cancel()" style="margin-left:5px;">Close</button>
+                    <button class="col-md-1 pull-right btn btn-success" ng-disabled="disableEdit" title="Save note" style="margin-left:5px;" ng-click="modifynote()"><i class="glyphicon glyphicon-floppy-disk"></i></button>
+                </div>
+            </div>
+        <!--<div id="gridnotes" style="height:40vh" dx-data-grid="notesgridConfig"></div>-->
+        <!--<ul style="height:40vh; ">
+            <li style="background-color:darkgrey; margin-bottom:10px; color:darkred!important;">
+                <div class="col-md-2">User</div>
+                <div class="col-md-7">Note</div>
+                <div class="col-md-2">Date</div>
+                <div class="col-md-1">Time</div>
+            </li>
+            <li ng-repeat="item in FormData.detailNotes" ng-click="selectrow($index)">
+                <div class="col-md-2">{{item[columns[0].dataField]}}</div>
+                <div class="col-md-7">{{item[columns[1].dataField]}}</div>
+                <div class="col-md-2">{{item[columns[2].dataField] | date:'dd/MM/yyyy'}}</div>
+                <div class="col-md-1">{{item[columns[3].dataField] | date:'HH:mm:ss'}}</div>
+            </li>
+        </ul>-->
+        <!--<table style="height:40vh;">
+            <thead style="height:12px;">
+                <tr>
+                    <td class="col-md-2">User</td>
+                    <td class="col-md-6">Note</td>
+                    <td class="col-md-2">Date</td>
+                    <td class="col-md-2"> </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="item in FormData.detailNotes" >
+                    <td class="col-md-2">{{item[columns[0].dataField]}}</td>
+                    <td class="col-md-6">{{item[columns[1].dataField]}}</td>
+                    <td class="col-md-2">{{item[columns[2].dataField] | date:'dd/MM/yyyy'}}</td>
+                    <td class="col-md-2">{{item[columns[3].dataField] | date:'HH:mm:ss'}}</td>
+                </tr>
+            </tbody>
+        </table>-->
+        <div class="row" >
+           <div class="col-md-12">
+            <div class="gridStyle" ui-grid="gridOptions" ui-grid-selection></div>
+               </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+    </div>
+</div>

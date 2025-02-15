@@ -1,0 +1,30 @@
+﻿<div class="container-fluid">
+    <div class="modal-header" data-dx-validation-group="{}" id="NotesValidationGroup" style="padding-bottom:5px;">
+        <div class="modal-title">Notes</div>
+        <div class="row visible-xs pt-5" ng-if="note!=''">
+            <div class="col-xs-12"> User: {{rowselected.noteadduser}}</div>
+            <div class="col-xs-12 pt-5"> Created On: {{rowselected.noteadddate | date : "dd/MM/y HH:mm"}}</div>
+        </div>
+        <div class="row pt-5">
+            <div class="dx-field-name col-md-2">Description</div>
+            <link href="../../../Content/textAngular.css" rel="stylesheet" />
+            <text-angular name="descriptionhtml" id="txtnotes" ng-model="notehtml" stop-event="focusout" ta-disabled="textangulardisabled"
+                          data-ng-required="true"
+                          ta-text-editor-class="form-control myform2-height" ta-html-editor-class="form-control myform2-height">
+            </text-angular>
+
+            <div class="row" style="padding:10px 0 10px 0;">
+                <div class="col-md-12">
+                    <button class="btn btn-warning pull-right" type="button" title="Cancel -- alt+c" ng-click="cancel()" style="margin-left:5px;">Close</button>
+                    <button class="col-md-1 pull-right btn btn-success" ng-disabled="disableEdit" title="Save note" style="margin-left:5px;" ng-click="modifynote()"><i class="glyphicon glyphicon-floppy-disk"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-body" style="padding-top:5px;">
+        <div id="gridnotes" style="height:60vh" dx-data-grid="notesgridConfig"></div>
+    </div>
+    <div class="modal-footer">
+    </div>
+</div>
+

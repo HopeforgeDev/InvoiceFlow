@@ -1,0 +1,21 @@
+﻿.sdloader{
+    
+}
+.sdloader .modal-content{
+        text-align:center !important;
+        box-shadow:none;
+        border:none;
+        border-radius:0;
+        background-color:transparent !important;
+}
+.sdloader .dx-loadindicator{
+        width:132px;
+        height:132px;
+
+    }
+.modal-backdrop{
+        background-color:lightgrey;
+}
+.sdloader.modal{
+        top:40%;
+    }

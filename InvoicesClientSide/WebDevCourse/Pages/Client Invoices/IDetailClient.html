@@ -1,0 +1,48 @@
+﻿<div class="col-md-12">
+    <h1>Invoice Details</h1>
+</div>
+<div class="row">
+    <div class="col-md-12"> <hr><br> </div>
+</div>
+<div class="container-fluid">
+    <div ng-init="init()">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-2">Header Seq:</div>
+                    <div class="col-md-11">
+                        <div dx-text-box="{width: '350', readOnly: true,value: FormData.InvoiceHeaderSeq}" data-dx-validator="{ validationRules: [{ type: 'required' }] }">
+                        </div>
+
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-2">Details Seq:</div>
+                    <div class="col-md-11">
+                        <div dx-text-box="{width: '350' ,  readOnly: true}" ng-model="FormData.seq" data-dx-validator="{ validationRules: [{ type: 'required' , readonly}] }"></div>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-11">
+                        <button type="button" class="btn btn-primary btn-sm" ng-click="AddNewID()" style="width: 110px;">Add New Item</button>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12"> <hr><br> </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div dx-data-grid="gridinvoicedetails" id="idgridinvoicedetails"></div>
+            </div>
+            <div class="col-md-12"> <hr><br> </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,6 @@
+﻿<button alt="Multiple Remarks" class="btn {{btnclass}}" type="button"
+        ng-click="opensdnotes()" title="{{NbrOfRecords}}">
+    <i class="glyphicon glyphicon-comment"
+       ng-style="{ 'color' : (NbrOfRecords == 0  || NbrOfRecords == undefined )? 'lightgreen' : 'blue' }" style="font-size: large;"></i>
+    <span ng-if="BtnTitle != ''">&nbsp; {{BtnTitle}}</span>
+</button>

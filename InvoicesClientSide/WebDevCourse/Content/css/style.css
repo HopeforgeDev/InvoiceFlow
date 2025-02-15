@@ -1,0 +1,182 @@
+﻿@font-face {
+  font-family: 'LeagueGothic';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.0.3');
+  src: url('../fonts/leaguegothic-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.full {
+    /*background: url('../img/hero1.jpg') no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.thanks
+{
+     background: url('../img/hero1-bg.jpg') no-repeat center center fixed !important;
+}
+
+.ksa {
+     background: url('../img/hero1-KSA-background.jpg') no-repeat center center fixed !important;
+}
+
+.ksa-thanks {
+     background: url('../img/hero1-KSA.jpg') no-repeat center center fixed !important;
+}
+
+.jc-dubai {
+    background: url('../img/hero1-jc-dubai.jpg') no-repeat center center fixed !important;
+}
+
+.media-dubai
+{
+     background: url('../img/hero1-media-dubai.jpg') no-repeat center center fixed !important;
+}
+
+.erp-dubai {
+    background: url('../img/hero1-erp-dubai.jpg') no-repeat center center fixed !important;
+}
+
+.erp-thanks {
+     background: url('../img/hero1-erp-bg.jpg') no-repeat center center fixed !important;
+}
+
+.jc-thanks {
+    background: url('../img/hero1-jc-bg.jpg') no-repeat center center fixed !important;
+}
+
+.register-title
+{
+    color:whitesmoke;
+    text-align: left; 
+    font-size: 16px !important;
+    margin-bottom: 0px !important;
+    padding-left: 15px;
+}
+
+.panel-title
+{  
+    text-align: center;
+}
+
+
+.navbar
+{
+    background-color:white;
+}
+
+.navbar-brand
+{
+    padding: 5px 0px !important;
+}
+
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+label.label-floatlabel {
+    font-weight: bold;
+    color: #46b8da;
+    font-size: 11px;
+}
+
+.btn
+{
+   /*background-color: #ff9900;
+   border-color: #ff9900;*/
+}
+
+.btn:hover
+{
+    /*background-color: #feb340 !important;
+     border-color: #feb340 !important;*/
+}
+
+.form-control
+{
+   /*background: rgba(0,0,0,0) !important;*/
+}
+
+.panel
+{
+  background: rgba(0,0,0,0) !important;
+}
+
+.staytuned
+{
+    color: whitesmoke;
+    font-family: 'LeagueGothic';
+    font-size: 54px;
+    margin-bottom: 0px !important;
+    margin-top: 15px;
+}
+
+.subscribe-panel
+{
+    width:100%;
+}
+
+.subscribe-div
+{
+    padding:0px !important;
+}
+
+.centered-form{
+    margin-top:10px;
+}
+
+.main
+{
+    /*margin-top:40px;*/
+    padding-left: 0px;
+    padding-right:0px;
+}
+
+.container
+{
+    max-width:100% !important;
+    width:90%;
+}
+
+.thanks-main-div
+{
+    margin-top:50px;
+    width:50%; 
+    margin-left:auto; margin-right:auto;
+}
+
+.thanks-main-div-media
+{
+    margin-top:150px;
+    width:50%; 
+    
+}
+
+.thanks-inner
+{
+    text-align:center;
+}
+
+@media screen and (max-width: 800px)
+{
+    .thanks-main-div, .thanks-main-div-media
+    {
+        width:80% !important; 
+    }
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+    .thanks-main-div, .thanks-main-div-media
+    {
+        width:100% !important; 
+    }
+
+}
